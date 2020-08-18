@@ -1,0 +1,57 @@
+      {/* <Modal
+          ref={(e) => (this.DurationRef = e)}
+          popupHeight={600}
+          header={
+            <NavBar
+              icon={
+                <TouchableOpacity
+                  style={styles.backButton}
+                  onPress={() => {
+                    this.closeDuration({
+                      call: () => {
+                        this.openDescription();
+                      },
+                    });
+                  }}>
+                  <BackArrow />
+                </TouchableOpacity>
+              }
+              title="Duration"
+              iconRight={
+                <Text
+                  style={[
+                    styles.next,
+                    {
+                      color:
+                        challenge.duration !== null ? '#1AA0FF' : '#96AAC6',
+                    },
+                  ]}>
+                  Next
+                </Text>
+              }
+            />
+          }>
+          <KeyboardAwareScrollView
+            contentContainerStyle={styles.contentContainerStyle}>
+            <View style={styles.titleContainer}>
+              <Text style={styles.titles}>Duration</Text>
+              <View
+                style={{marginBottom: 20, marginTop: 5, alignItems: 'center'}}>
+                <Text style={styles.subTitles}>
+                  How many days do you want to
+                </Text>
+                <Text style={styles.subTitles}>run this challenge?</Text>
+              </View>
+            </View>
+            <Duration
+              challenge={challenge}
+              onPress={(duration) => {
+                if (duration === challenge.duration) {
+                  this.onChangeChallenge({duration: null});
+                } else {
+                  this.onChangeChallenge({duration});
+                }
+              }}
+            />
+          </KeyboardAwareScrollView>
+        </Modal> */}

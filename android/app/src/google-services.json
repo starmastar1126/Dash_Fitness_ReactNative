@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "942215840003",
+    "firebase_url": "https://fitness-dash.firebaseio.com",
+    "project_id": "fitness-dash",
+    "storage_bucket": "fitness-dash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942215840003:android:5c970f2040b2355184a936",
+        "android_client_info": {
+          "package_name": "com.fitnessfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942215840003-gvm6kchj05i3q8gqt4dqanbomehuug0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitnessfer",
+            "certificate_hash": "4ebccfaa60eeb5f27001aae4b69004d6d9254c1f"
+          }
+        },
+        {
+          "client_id": "942215840003-iqpmtboitjijg1bnraaado2m5btpf8pl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitnessfer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "942215840003-l4kldjpp92k91f1q07srekvunfpff3qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHi0-rpsYj_R6MTN8wnbRUV9iVP0qSFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942215840003-l4kldjpp92k91f1q07srekvunfpff3qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

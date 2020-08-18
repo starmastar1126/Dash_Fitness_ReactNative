@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799774940481",
+    "firebase_url": "https://dash-fitness.firebaseio.com",
+    "project_id": "dash-fitness",
+    "storage_bucket": "dash-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799774940481:android:a06b0f696021c03836d5c0",
+        "android_client_info": {
+          "package_name": "com.fitnessfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799774940481-vfnnqtmfelum6v08o96r6vdm719qf906.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSX1eVzptyA1ERoFPxv_O6cDwOPtG_CY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799774940481-vfnnqtmfelum6v08o96r6vdm719qf906.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
